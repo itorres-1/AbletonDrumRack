@@ -29,12 +29,17 @@
 					<Value>
 						<FilePresetRef>
 							<FileRef>
-								<HasRelativePath Value="false" />
-								<RelativePathType Value="0" />
-								<RelativePath />
-								<Name Value="t2.adg" />
-								<Type Value="0" />
-								<Data />
+								<HasRelativePath Value="true" />
+								<RelativePathType Value="6" />
+								<RelativePath>
+									<RelativePathElement Dir="Presets" />
+									<RelativePathElement Dir="Instruments" />
+									<RelativePathElement Dir="Drum Rack" />
+								</RelativePath>
+								<Name Value="t.adg" />
+								<Type Value="2" />
+								<Data>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																												</Data>
 								<RefersToFolder Value="false" />
 								<SearchHint>
 									<PathHint />
@@ -326,12 +331,17 @@
 		<PresetRef>
 			<FilePresetRef>
 				<FileRef>
-					<HasRelativePath Value="false" />
-					<RelativePathType Value="0" />
-					<RelativePath />
-					<Name Value="t2.adg" />
-					<Type Value="0" />
-					<Data />
+					<HasRelativePath Value="true" />
+					<RelativePathType Value="6" />
+					<RelativePath>
+						<RelativePathElement Dir="Presets" />
+						<RelativePathElement Dir="Instruments" />
+						<RelativePathElement Dir="Drum Rack" />
+					</RelativePath>
+					<Name Value="t.adg" />
+					<Type Value="2" />
+					<Data>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																					</Data>
 					<RefersToFolder Value="false" />
 					<SearchHint>
 						<PathHint />
@@ -414,7 +424,7 @@
 									<MultiSampleMap>
 										<SampleParts>
 											<MultiSamplePart HasImportedSlicePoints="true" NeedsAnalysisData="true">
-												<Name Value="Kick 909 10" />
+												<Name Value="Cabasa Argon" />
 												<Selection Value="true" />
 												<IsActive Value="true" />
 												<Solo Value="false" />
@@ -443,17 +453,17 @@
 												<Volume Value="1" />
 												<Link Value="false" />
 												<SampleStart Value="0" />
-												<SampleEnd Value="13802" />
+												<SampleEnd Value="3607" />
 												<SustainLoop>
 													<Start Value="0" />
-													<End Value="13802" />
+													<End Value="3607" />
 													<Mode Value="0" />
 													<Crossfade Value="0" />
 													<Detune Value="0" />
 												</SustainLoop>
 												<ReleaseLoop>
 													<Start Value="0" />
-													<End Value="13802" />
+													<End Value="3607" />
 													<Mode Value="3" />
 													<Crossfade Value="0" />
 													<Detune Value="0" />
@@ -474,12 +484,12 @@
 															<RelativePathElement Dir="Battery 4 Factory Library" />
 															<RelativePathElement Dir="Samples" />
 															<RelativePathElement Dir="Drums" />
-															<RelativePathElement Dir="Kick" />
+															<RelativePathElement Dir="Shaker" />
 														</RelativePath>
-														<Name Value="Kick 909 10.wav" />
+														<Name Value="Cabasa Argon.wav" />
 														<Type Value="2" />
 														<Data>
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						</Data>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						</Data>
 														<RefersToFolder Value="false" />
 														<SearchHint>
 															<PathHint>
@@ -488,17 +498,17 @@
 																<RelativePathElement Dir="Battery 4 Factory Library" />
 																<RelativePathElement Dir="Samples" />
 																<RelativePathElement Dir="Drums" />
-																<RelativePathElement Dir="Kick" />
+																<RelativePathElement Dir="Shaker" />
 															</PathHint>
-															<FileSize Value="55136" />
-															<Crc Value="35562" />
+															<FileSize Value="12754" />
+															<Crc Value="52052" />
 															<MaxCrcSize Value="16384" />
 															<HasExtendedInfo Value="true" />
 														</SearchHint>
 														<LivePackName Value="" />
 														<LivePackId Value="" />
 													</FileRef>
-													<LastModDate Value="1381930416" />
+													<LastModDate Value="1381930423" />
 													<SourceContext>
 														<SourceContext>
 															<OriginalFileRef>
@@ -517,12 +527,12 @@
 																		<RelativePathElement Dir="Battery 4 Factory Library" />
 																		<RelativePathElement Dir="Samples" />
 																		<RelativePathElement Dir="Drums" />
-																		<RelativePathElement Dir="Kick" />
+																		<RelativePathElement Dir="Shaker" />
 																	</RelativePath>
-																	<Name Value="Kick 909 10.wav" />
+																	<Name Value="Cabasa Argon.wav" />
 																	<Type Value="2" />
 																	<Data>
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													</Data>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													</Data>
 																	<RefersToFolder Value="false" />
 																	<SearchHint>
 																		<PathHint>
@@ -531,10 +541,10 @@
 																			<RelativePathElement Dir="Battery 4 Factory Library" />
 																			<RelativePathElement Dir="Samples" />
 																			<RelativePathElement Dir="Drums" />
-																			<RelativePathElement Dir="Kick" />
+																			<RelativePathElement Dir="Shaker" />
 																		</PathHint>
-																		<FileSize Value="55136" />
-																		<Crc Value="35562" />
+																		<FileSize Value="12754" />
+																		<Crc Value="52052" />
 																		<MaxCrcSize Value="16384" />
 																		<HasExtendedInfo Value="true" />
 																	</SearchHint>
@@ -542,18 +552,18 @@
 																	<LivePackId Value="" />
 																</FileRef>
 															</OriginalFileRef>
-															<BrowserContentPath Value="userfolder:/Users/Shared/Battery%204%20Factory%20Library/Samples/#Drums:Kick:Kick%20909%2010.wav" />
+															<BrowserContentPath Value="userfolder:/Users/Shared/Battery%204%20Factory%20Library/Samples/#Drums:Shaker:Cabasa%20Argon.wav" />
 														</SourceContext>
 													</SourceContext>
 													<SampleUsageHint Value="0" />
-													<DefaultDuration Value="13803" />
+													<DefaultDuration Value="3608" />
 													<DefaultSampleRate Value="44100" />
 												</SampleRef>
 												<SlicingThreshold Value="100" />
 												<SampleWarpProperties>
 													<WarpMarkers>
 														<WarpMarker BeatTime="0" SecTime="0" />
-														<WarpMarker BeatTime="0.03125" SecTime="0.0156249999323925803" />
+														<WarpMarker BeatTime="0.03125" SecTime="0.0156250001588772308" />
 													</WarpMarkers>
 													<WarpMode Value="0" />
 													<GranularityTones Value="30" />
@@ -587,9 +597,7 @@
 														<Fixed Value="false" />
 													</BeatGrid>
 												</SampleWarpProperties>
-												<SlicePoints>
-													<SlicePoint NormalizedEnergy="1" Rank="0" TimeInSeconds="0.000136054421768707479" />
-												</SlicePoints>
+												<SlicePoints />
 											</MultiSamplePart>
 										</SampleParts>
 										<LoadInRam Value="false" />
@@ -1826,7 +1834,29 @@
 								<LastSelectedTimeableIndex Value="0" />
 								<LastSelectedClipEnvelopeIndex Value="0" />
 								<LastPresetRef>
-									<Value />
+									<Value>
+										<AbletonDefaultPresetRef>
+											<FileRef>
+												<HasRelativePath Value="false" />
+												<RelativePathType Value="0" />
+												<RelativePath />
+												<Name Value="" />
+												<Type Value="0" />
+												<Data />
+												<RefersToFolder Value="false" />
+												<SearchHint>
+													<PathHint />
+													<FileSize Value="0" />
+													<Crc Value="0" />
+													<MaxCrcSize Value="0" />
+													<HasExtendedInfo Value="false" />
+												</SearchHint>
+												<LivePackName Value="" />
+												<LivePackId Value="" />
+											</FileRef>
+											<DeviceId Name="AudioBranchMixerDevice" />
+										</AbletonDefaultPresetRef>
+									</Value>
 								</LastPresetRef>
 								<LockedScripts />
 								<IsFolded Value="false" />
